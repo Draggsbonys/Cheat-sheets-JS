@@ -18,3 +18,8 @@
 //git remote add origin https://.........
 //git branch -M main
 //git push -u origin main
+
+//Работа с файлом .gitignore 
+//Создаем в папке проекта файл .gitignore 
+//Вписываем внутри файла папки и файлы которые мы не хотим пушить в репозиторий 
+//Например /node_modules /package-lock.json /package.json /gulpfile.js 
